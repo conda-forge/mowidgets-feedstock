@@ -1,5 +1,5 @@
 context:
-  version: 0.1.2
+  version: "0.2.1"
 
 package:
   name: mowidgets
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/m/mowidgets/mowidgets-${{ version }}.tar.gz
-    sha256: db282cfe421c8b64e236ea2a2b1e50615757134d23f396715964e6f9a89f6493
+    sha256: d3e154e1c27c8c97f31500cda13bcd32bc508df8de2801c3daae56dbb61f2332
 
 build:
   number: 0
