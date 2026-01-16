@@ -1,5 +1,6 @@
 context:
   version: "0.2.1"
+  pyhthon_min: 3.11
 
 package:
   name: mowidgets
@@ -24,7 +25,7 @@ requirements:
     - pip
   run:
     - python >=${{ python_min }}
-    - marimo >=0.12.1
+    - marimo >=0.19.1
 
 tests:
   - python:
