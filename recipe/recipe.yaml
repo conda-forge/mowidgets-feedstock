@@ -1,6 +1,6 @@
 context:
   version: "0.2.1"
-  pyhthon_min: 3.11
+  python_min: 3.11
 
 package:
   name: mowidgets
